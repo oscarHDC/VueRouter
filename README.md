@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Defining routing rules, RouterView, RouterLink, Dynamic Routing, Programmatic Routing, Catching all routes, Query param, Nested Routes
